@@ -1,4 +1,4 @@
 def addition(a, b):
     return a + b
 
-print("Result:", addition(5, 3))
+print("Result of addition:", addition(5, 3))
