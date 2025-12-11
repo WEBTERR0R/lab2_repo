@@ -1,6 +1,6 @@
-print("Hello from ZGU")
+print("Hello from ZGU - Hotfix")
 
 def addition(a, b):
     return a + b
 
-print("Result of addition:", addition(5, 3))
+print("Hotfix result:", addition(5, 3))
